@@ -19,7 +19,7 @@ pnpm install
 ## Running SFC
 
 ```bash
-pnpm build && pnpm preview
+pnpm start
 ```
 🎡 Playground: http://localhost:5000/
 
