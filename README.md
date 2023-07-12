@@ -3,6 +3,8 @@
 
 🕙 原始 Unplugin 版本：[virtuallist-transfer-unplugin-example](https://github.com/pdsuwwz/virtuallist-transfer-unplugin-example)
 
+🕙 无 Unplugin 版本：[virtuallist-transfer-example](https://github.com/pdsuwwz/virtuallist-transfer-example)
+
 * GIF 示例
 <img width="845" alt="image" src="https://user-images.githubusercontent.com/19891724/196990195-c7ab4181-83fe-4808-aa79-86f5bf8d9460.gif">
 * 截图示例
