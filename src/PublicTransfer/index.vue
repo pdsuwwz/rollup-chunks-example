@@ -14,8 +14,13 @@
           v-model.trim="searchValue"
           placeholder="请输入名称/编号"
           clearable
-          prefix-icon="el-icon-search"
-        />
+        >
+          <template #prefix>
+            <el-icon>
+              <i-ep-Search />
+            </el-icon>
+          </template>
+        </el-input>
       </div>
       <div class="transfer-box-body">
         <TransferScroller
